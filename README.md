@@ -2,7 +2,7 @@ Image tracking module that logs user data whenever an image is called, born from
 
 For example:
 
-<img src="http://mysite.com/?ACT=45&id=5" alt="" />
+&lt;img src=&quot;http://mysite.com/?ACT=45&amp;id=5&quot; alt=&quot;&quot; /&gt;
 
 Will log IP address, user agent, timestamp and referrer.
 
