@@ -97,7 +97,6 @@ class Jimmy_mcp {
 		$data = array(
 		   'site_id' 	=> $this->_site_id,
 		   'label' 		=> $this->EE->input->post('label', TRUE),
-		   'dir_id' 	=> $this->EE->input->post('dir_id', TRUE),
 		   'filename' 	=> $this->EE->input->post('filename', TRUE)
 		);
 		
